@@ -1,0 +1,58 @@
+h2 {
+    font-size: 48px;
+    margin-left: 14%;
+}
+
+.project {
+    height: 400px;
+    display: flex;
+    padding: 100px;
+    background-color: #fff;
+    padding-left: 120px;
+}
+
+.project-description {
+    width: 50%;
+    padding-right: 50px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.project-img-container {
+    width: 50%;
+    padding-left: 20px;
+}
+
+.project-img {
+    height: 300px;
+    width: auto;
+    margin: auto;
+    display: block;
+}
+
+p {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+#img-two {
+    margin-right: 100px;
+    padding-right: 120px;
+    padding-left: 0px;
+}
+
+#project-two {
+    background-color: #d9d9d9;
+    margin: 100px;
+    border-radius: 20px;
+}
+
+.project-btn {
+    color: #f9faf8;
+    border: 1px solid #e5e7eb;
+    background-color: #3882f6;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
